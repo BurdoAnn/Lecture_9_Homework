@@ -1,0 +1,30 @@
+@media(max-width: 1039px){
+	.left-box,
+	.right-box{
+		width: 330px;}
+}
+
+@media(max-width: 1039px){
+	.container,
+	.heading,
+	.container-2{
+		flex-direction: column;
+	}
+}
+
+
+@media(max-width: 1033px){
+	.box {
+		width: 20%;
+	}
+
+}
+
+@media(max-with:  760px){
+	.heading{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+}
+
+
